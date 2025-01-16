@@ -41,4 +41,5 @@ g++ -o LBP.cpp
 Run the jupyter notebook :
 
 jupyter nbconvert --execute --to markdown LBP.ipynb
+
 Open the web interface and interact with the model.
